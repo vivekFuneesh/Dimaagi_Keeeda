@@ -6,7 +6,7 @@ NOTE:: Just basic idea of 2048 ,rather appearing of new Numbers , Timer in form 
 The idea of adding 1 number at most 1 time is same and EVERYTHING ELSE IS DIFFERENT,EVEN ALGORITHM
 (Well! I do not know about other's one because I created it SELF AND INDEPENDENTLY within 12 hours. ) 
 
-Copyright (C) <2014> <Vivek Mangla>
+Copyright (C) 2014  Vivek Mangla
 
 Dimaagi_Keeda is free Game: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
