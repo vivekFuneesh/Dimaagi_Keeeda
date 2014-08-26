@@ -1,3 +1,29 @@
+
+
+<Dimaagi_Keeda is a number adding Game based on idea of 2048 which is  a clone of 1024 and All.  >
+
+<NOTE:: Just basic idea of 2048 ,rather appearing of new Numbers , Timer in form of Cart etc. are totally My_Self Creation.>
+
+<The idea of adding 1 number at most 1 time is same and EVERYTHING ELSE IS DIFFERENT,EVEN ALGORITHM
+(Well! I do not know about other's one because I created it SELF AND INDEPENDENTLY within 12 hours. ) >
+
+    Copyright (C) <2014>  <Vivek Mangla>
+
+Dimaagi_Keeda is free Game: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
