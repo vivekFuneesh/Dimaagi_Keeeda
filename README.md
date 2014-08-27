@@ -1,10 +1,7 @@
 
-Dimaagi_Keeda is a number adding Game based on idea of 2048 which is a clone of 1024 and All. 
+Dimaagi_Keeda is a number adding Game based on idea of 2048 which is a clone of 1024 . 
 
 NOTE:: Just basic idea of 2048 ,rather appearing of new Numbers , Timer in form of Cart etc. are totally My_Self Creation.
-
-The idea of adding 1 number at most 1 time is same and EVERYTHING ELSE IS DIFFERENT,EVEN ALGORITHM
-(Well! I do not know about other's one because I created it SELF AND INDEPENDENTLY within 12 hours. ) 
 
 Copyright (C) 2014  Vivek Mangla
 
