@@ -35,3 +35,5 @@ gets collide with screen edge(called Screen Walls), YOU ARE OUT!
 
 Language is for FUN ONLY!!
 
+In executeble form download it from https://sourceforge.net/u/vivekfuneesh
+
