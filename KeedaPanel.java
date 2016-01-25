@@ -125,7 +125,7 @@ public class KeedaPanel extends JPanel implements Runnable{
         while(GameOUT==0){
             
             syncFlag[0]=1;syncTurn=1;
-            while(true){if((syncFlag[1]!=1)||(syncTurn!=1))break;}
+            while(true){if((syncFlag[1]!=1)||(syncTurn!=1))break;else System.out.print("");}
             
             if(GameOUT!=1){
                // System.out.println("Inside run matrix="+matrix+"GameOUT="+GameOUT);
@@ -169,7 +169,7 @@ public class KeedaPanel extends JPanel implements Runnable{
            public void keyPressed(KeyEvent ke){////System.out.println("Inside addKeyListener's KeyPressed");
                syncFlag[1]=1;
                syncTurn=0;
-               while(true){if((syncFlag[0]!=1)||(syncTurn!=0))break;}
+               while(true){if((syncFlag[0]!=1)||(syncTurn!=0))break;else System.out.print("");}
                if(key1!=null)removeKeyListener(key1);
                int y=ke.getKeyCode();
                switch(y){
