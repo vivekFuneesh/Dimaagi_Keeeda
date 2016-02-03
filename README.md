@@ -35,5 +35,13 @@ gets collide with screen edge(called Screen Walls), YOU ARE OUT!
 
 Language is for FUN ONLY!!
 
-In executeble form download it from https://sourceforge.net/u/vivekfuneesh
+Download source code.
+
+Go inside extracted directory on cmd.
+
+Now type::
+
+javac *.java
+
+java KeedaFrame
 
